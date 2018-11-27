@@ -31,15 +31,15 @@ SIGAI一直注重对经典论文的理解与学习，并不断追踪各个领域
   * [强化学习](https://github.com/tensor-infinity/PaperCollections/blob/master/ML.md#强化学习)
 
 
-- [深度神经网络](https://github.com/tensor-infinity/PaperCollections/blob/master/DNN.md深度神经网络)
-  * [人工神经网络](https://github.com/tensor-infinity/PaperCollections/blob/master/DNN.md人工神经网络)
-  * [卷积神经网络](https://github.com/tensor-infinity/PaperCollections/blob/master/DNN.md卷积神经网络)
-  * [循环神经网络](https://github.com/tensor-infinity/PaperCollections/blob/master/DNN.md循环神经网络)
-  * [自动编码器](https://github.com/tensor-infinity/PaperCollections/blob/master/DNN.md自动编码器)
-  * [受限玻尔兹曼机](https://github.com/tensor-infinity/PaperCollections/blob/master/DNN.md受限玻尔兹曼机)
-  * [生成对抗网络](https://github.com/tensor-infinity/PaperCollections/blob/master/DNN.md生成对抗网络)
-  * [变分自动编码器](https://github.com/tensor-infinity/PaperCollections/blob/master/DNN.md变分自动编码器)
-  * [深度模型压缩与优化](https://github.com/tensor-infinity/PaperCollections/blob/master/DNN.md深度模型压缩与优化)
+- [深度神经网络](https://github.com/tensor-infinity/PaperCollections/blob/master/DNN.md#深度神经网络)
+  * [人工神经网络](https://github.com/tensor-infinity/PaperCollections/blob/master/DNN.md#人工神经网络)
+  * [卷积神经网络](https://github.com/tensor-infinity/PaperCollections/blob/master/DNN.md#卷积神经网络)
+  * [循环神经网络](https://github.com/tensor-infinity/PaperCollections/blob/master/DNN.md#循环神经网络)
+  * [自动编码器](https://github.com/tensor-infinity/PaperCollections/blob/master/DNN.md#自动编码器)
+  * [受限玻尔兹曼机](https://github.com/tensor-infinity/PaperCollections/blob/master/DNN.md#受限玻尔兹曼机)
+  * [生成对抗网络](https://github.com/tensor-infinity/PaperCollections/blob/master/DNN.md#生成对抗网络)
+  * [变分自动编码器](https://github.com/tensor-infinity/PaperCollections/blob/master/DNN.md#变分自动编码器)
+  * [深度模型压缩与优化](https://github.com/tensor-infinity/PaperCollections/blob/master/DNN.md#深度模型压缩与优化)
 
 
 我们将会持续更新论文列表内容，请大家保持关注。
