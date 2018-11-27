@@ -26,7 +26,7 @@
 
 ## 机器学习理论
 
-### PCA(probably approximately correct)学习理论
+### PAC(probably approximately correct)学习理论
 
 [1] L. Valiant. A theory of the learnable. Communications of the ACM, 27, 1984.
 
