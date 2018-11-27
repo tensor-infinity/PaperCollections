@@ -5,8 +5,8 @@ SIGAI致力于打造简单易用的人工智能框架和平台。一直以来，
 
 SIGAI一直注重对经典论文的理解与学习，并不断追踪各个领域的最新发展。在此，SIGAI从机器学习以及深度学习领域挑选出若干重要的论文并与所有的研究者共同分享，希望对大家能够有一定的帮助。论文列表如下：
 
-- [机器学习理论](#机器学习理论)
-  * [PCA(probably approximately correct)学习理论](#pcaprobably-approximately-correct学习理论)
+- [机器学习理论](https://github.com/tensor-infinity/PaperCollections/blob/dev/ML.md#%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%90%86%E8%AE%BA)
+  * [PCA(probably approximately correct)学习理论](https://github.com/tensor-infinity/PaperCollections/blob/dev/ML.md#pcaprobably-approximately-correct%E5%AD%A6%E4%B9%A0%E7%90%86%E8%AE%BA)
   * [VC(Vapnik–Chervonenkis dimension)维](#vcvapnikchervonenkis-dimension维)
   * [泛化理论](#泛化理论)
   * [最优化理论和方法](#最优化理论和方法)
@@ -29,6 +29,18 @@ SIGAI一直注重对经典论文的理解与学习，并不断追踪各个领域
   * [聚类算法](#聚类算法)
   * [半监督学习](#半监督学习)
   * [强化学习](#强化学习)
+
+
+- [深度神经网络](#深度神经网络)
+  * [人工神经网络](#人工神经网络)
+  * [卷积神经网络](#卷积神经网络)
+  * [循环神经网络](#循环神经网络)
+  * [自动编码器](#自动编码器)
+  * [受限玻尔兹曼机](#受限玻尔兹曼机)
+  * [生成对抗网络](#生成对抗网络)
+  * [变分自动编码器](#变分自动编码器)
+  * [深度模型压缩与优化](#深度模型压缩与优化)
+
 
 我们将会持续更新论文列表内容，请大家保持关注。
 
