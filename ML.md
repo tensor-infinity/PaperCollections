@@ -1,4 +1,4 @@
-- [机器学习理论](#------)
+- [机器学习理论](#机器学习理论)
   * [PCA(probably approximately correct)学习理论](#pca)
   * [VC(Vapnik–Chervonenkis dimension)维](#vc)
   * [泛化理论](#泛化理论)
@@ -25,13 +25,13 @@
 
 ## 机器学习理论
 
-### PCA(probably approximately correct)学习理论 {#pca}
+### PCA(probably approximately correct)学习理论
 
 [1] L. Valiant. A theory of the learnable. Communications of the ACM, 27, 1984.
 
  
 
-### VC(Vapnik–Chervonenkis dimension)维 {#vc}
+### VC(Vapnik–Chervonenkis dimension)维
 
 [1] Blumer, A., Ehrenfeucht, A., Haussler, D., Warmuth, M. K. Learnability and the Vapnik–Chervonenkis dimension. Journal of the ACM. 36 (4): 929–865, 1989.
 
@@ -95,7 +95,7 @@
 
 ### 数据降维
 
-#### 主成分分析（PCA） {#pca1}
+#### 主成分分析(PCA)
 [1] Pearson, K. On Lines and Planes of Closest Fit to Systems of Points in Space. Philosophical Magazine. 2 (11): 559–572. 1901.
 
 [2] Ian T. Jolliffe. Principal Component Analysis. Springer Verlag, New York, 1986.
@@ -106,7 +106,7 @@
 
  
 
-#### 流形学习  {#manifold}
+#### 流形学习
 
 [1] Roweis, Sam T and Saul, Lawrence K. Nonlinear dimensionality reduction by locally linear embedding. Science, 290(5500). 2000: 2323-2326.
 
@@ -120,7 +120,7 @@
 
  
 
-#### 线性判别分析（LDA） {#lda}
+#### 线性判别分析(LDA)
 
 [1] Ronald A. Fisher. The use of multiple measurements in taxonomic problems. Annals of Eugenics, 7 Part 2: 179-188, 1936.
 
@@ -144,7 +144,7 @@
 
  
 
-### 支持向量机（SVM） {#svm}
+### 支持向量机(SVM)
 
 [1] B.E.Boser, I.Guyon, and V. Vapni. A training algorithm for optimal margin classifiers. In Proceedings of the Fifth Annual Workshop on Computational Learning Theory, pages 144-152. ACM Press, 1992.
 
@@ -227,12 +227,6 @@
 [1] Lafferty, J., McCallum, A., Pereira, F. Conditional random fields: Probabilistic models for segmenting and labeling sequence data. Proc. 18th International Conf. on Machine Learning. Morgan Kaufmann. pp. 282–289. 2001.
 
  
-
-
- 
-
- 
-
 ### 聚类算法
 
 [1] MacQueen, J. B. Some Methods for classification and Analysis of Multivariate Observations. Proceedings of 5th Berkeley Symposium on Mathematical Statistics and Probability. 1. University of California Press. pp. 281–297, 1967
