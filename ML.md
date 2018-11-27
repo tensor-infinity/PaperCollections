@@ -1,5 +1,5 @@
 - [机器学习理论](#机器学习理论)
-  * [PCA(probably approximately correct)学习理论](#pcaprobably-approximately-correct学习理论)
+  * [PAC(probably approximately correct)学习理论](#pacprobably-approximately-correct学习理论)
   * [VC(Vapnik–Chervonenkis dimension)维](#vcvapnikchervonenkis-dimension维)
   * [泛化理论](#泛化理论)
   * [最优化理论和方法](#最优化理论和方法)

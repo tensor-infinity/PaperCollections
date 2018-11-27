@@ -6,7 +6,7 @@ SIGAI致力于打造简单易用的人工智能框架和平台。一直以来，
 SIGAI一直注重对经典论文的理解与学习，并不断追踪各个领域的最新发展。在此，SIGAI从机器学习以及深度学习领域挑选出若干重要的论文并与所有的研究者共同分享，希望对大家能够有一定的帮助。论文列表大纲如下，欲查看详细内容，请点击相关链接：
 
 - [机器学习理论](https://github.com/tensor-infinity/PaperCollections/blob/master/ML.md#%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%90%86%E8%AE%BA)
-  * [PCA(probably approximately correct)学习理论](https://github.com/tensor-infinity/PaperCollections/blob/master/ML.md#pcaprobably-approximately-correct%E5%AD%A6%E4%B9%A0%E7%90%86%E8%AE%BA)
+  * [PAC(probably approximately correct)学习理论](https://github.com/tensor-infinity/PaperCollections/blob/master/ML.md#pacprobably-approximately-correct%E5%AD%A6%E4%B9%A0%E7%90%86%E8%AE%BA)
   * [VC(Vapnik–Chervonenkis dimension)维](https://github.com/tensor-infinity/PaperCollections/blob/master/ML.md#vcvapnikchervonenkis-dimension维)
   * [泛化理论](https://github.com/tensor-infinity/PaperCollections/blob/master/ML.md#泛化理论)
   * [最优化理论和方法](https://github.com/tensor-infinity/PaperCollections/blob/master/ML.md#最优化理论和方法)
